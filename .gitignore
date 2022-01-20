@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.rango/test_chapter3.py
+.rango/test_chapter4.py
+.rango/test_chapter5.py
+.rango/test_chapter6.py
+.rango/test_chapter7.py
+.rango/test_chapter8.py
+.rango/test_chapter9.py
+.rango/test_chapter10.py
