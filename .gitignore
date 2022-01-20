@@ -129,11 +129,11 @@ dmypy.json
 .pyre/
 
 
-/rango/test_chapter3.py
-/rango/test_chapter4.py
-/rango/test_chapter5.py
-/rango/test_chapter6.py
-/rango/test_chapter7.py
-/rango/test_chapter8.py
-/rango/test_chapter9.py
-/rango/test_chapter10.py
+/rango/tests_chapter3.py
+/rango/tests_chapter4.py
+/rango/tests_chapter5.py
+/rango/tests_chapter6.py
+/rango/tests_chapter7.py
+/rango/tests_chapter8.py
+/rango/tests_chapter9.py
+/rango/tests_chapter10.py
